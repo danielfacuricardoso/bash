@@ -1,2 +1,2 @@
 # bash
-bash
+Anotações de bash.
