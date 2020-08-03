@@ -1,0 +1,1 @@
+ grep -o -i oqueprocura nomedoarquivo | wc -l
